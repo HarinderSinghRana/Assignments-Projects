@@ -4,6 +4,6 @@
 include "header.php";
 
 include "body.php";
-include "newslettter.php";
+include "frame.php";
 include "footer.php";
 ?>
