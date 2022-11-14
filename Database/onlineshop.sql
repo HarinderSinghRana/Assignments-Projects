@@ -71,7 +71,7 @@ INSERT INTO `brands` (`brand_id`, `brand_title`) VALUES
 (4, 'motorolla'),
 (5, 'LG'),
 (6, 'Cloth Brand');
-
+(7, 'Cloth Brand');
 -- --------------------------------------------------------
 
 --
