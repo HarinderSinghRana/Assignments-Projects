@@ -155,6 +155,7 @@
                         $pro_image = $row['product_image'];
 
                         $cat_name = $row["cat_title"];
+                        $cat_name = $row["cat_title"];
 
                         echo "
 				
@@ -668,4 +669,3 @@
 		</div>
 		<!-- /SECTION -->
 </div>
-		
