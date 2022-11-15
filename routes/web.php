@@ -17,4 +17,6 @@ use App\Http\Controllers\GetData;
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/getdata',[GetData::class,'index']);
 
+Route::get('/showdata',[GetData::class,'viewdata'])->name('view.data');
